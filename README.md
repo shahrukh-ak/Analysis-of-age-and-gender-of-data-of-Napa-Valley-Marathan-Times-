@@ -7,3 +7,5 @@ Napa Valley Marathon Times by Age and Gender for 2015 <br>
 - Are men older than women?<br>
 - The average completion time for all runners is 4.361 hours. Test whether the completion time
 for men is lower than 4.361 hours. <br>
+- The average age for all runners is 41.33 years. Test whether women are younger than 41.33
+years. 
