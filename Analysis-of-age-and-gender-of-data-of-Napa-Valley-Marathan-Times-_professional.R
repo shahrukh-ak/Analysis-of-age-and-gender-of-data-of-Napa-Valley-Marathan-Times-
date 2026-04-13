@@ -1,9 +1,5 @@
 # Napa Valley Marathon Analysis
-#
-# Professionalized version of the original project file.
-# The code and stated results are retained from the source as closely as possible.
-# Output text from the original file has been converted to comments where needed for readability.
-#
+
 
 # Analysis-of-age-and-gender-of-data-of-Napa-Valley-Marathan-Times
 # Napa Valley Marathon Times by Age and Gender for 2015 <br>
